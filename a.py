@@ -1,4 +1,4 @@
-print("hi :)")
+print("hi 😁")
 
 
 def fun(hour):
