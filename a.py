@@ -1,4 +1,5 @@
-print("hi :)")
+def greet(name):
+    print(f"hi {name} :)")
 
 
 def fun(hour):
